@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HDAC_card</string>
+
+    <string name="label">Helen Day Art Center</string>
+    <string name="address">\n90 Pond St   Stowe VT 05655\n802 256 8358   |   info@helenday.com\nWed. - Sun noon to 5pm\n</string>
+    <string name="bckgndDescription">Grace DeGenaro Geometry 33</string>
+    <string name="website"><a href="https://www.helenday.com/">helenday.com</a></string>
+</resources>
