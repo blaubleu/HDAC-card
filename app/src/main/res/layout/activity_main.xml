@@ -63,6 +63,7 @@
         android:background="@color/red"
         android:paddingHorizontal="16dp"
         android:paddingVertical="16dp"
+        android:elevation="36dp"
         android:text="@string/website"
         app:layout_constraintBottom_toTopOf="@+id/address"
         app:layout_constraintEnd_toEndOf="parent"
