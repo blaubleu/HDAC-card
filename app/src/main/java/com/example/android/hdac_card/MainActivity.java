@@ -15,8 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         websiteView = findViewById(R.id.website_view);
-        // open website
+        // open website URL:
         websiteView.setMovementMethod(LinkMovementMethod.getInstance());
-        //website.setShadowLayer(2f,0f,1f, Color.BLACK);
     }
 }
