@@ -3,6 +3,7 @@ package com.example.android.hdac_card;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.SpannableString;
 import android.text.method.LinkMovementMethod;
 import android.widget.TextView;
 
@@ -18,4 +19,5 @@ public class MainActivity extends AppCompatActivity {
         // open website URL:
         websiteView.setMovementMethod(LinkMovementMethod.getInstance());
     }
+
 }
